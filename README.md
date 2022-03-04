@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gean Sammy 👋
 
 - 🔭 Atualmente não estou trabalhando. Estou buscando ter a minha primeira oportunidade.
-- 📖 Estudando HTML e CSS.
+- 📖 Estudando HTML, CSS e JavaScript.
 - 📩 Contate-me no email: geansammy8@gmail.com
 - 🙂 Pronomes: ele/dele.
 
@@ -14,6 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gean-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
