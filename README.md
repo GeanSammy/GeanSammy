@@ -3,7 +3,6 @@
 - 🔭 Atualmente não estou trabalhando. Estou buscando ter a minha primeira oportunidade.
 - 📖 Estudando HTML, CSS e JavaScript.
 - 📩 Contate-me no email: geansammy8@gmail.com
-- 🙂 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/GeanSammy">
