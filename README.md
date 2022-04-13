@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gean Sammy 👋
 
-- 🔭 Atualmente não estou trabalhando. Estou buscando ter a minha primeira oportunidade.
+- 🔭 Buscando ter a primeira experiência profissional.
 - 📖 Estudando HTML, CSS e JavaScript.
 - 📩 Contate-me no email: geansammy8@gmail.com
 
